@@ -14,17 +14,17 @@
 引用第三方内容时，应注明出处。
 
 ```
-One man’s constant is another man’s variable. — Alan Perlis
+一个人的常量是另一个人的变量。 — Alan Perlis
 ```
 
 如果是全篇转载，请在全文开头显著位置注明作者和出处，并链接至原文。
 
 ```
-本文转载自 WikiQuote
+本文转载自WikiQuote
 ```
 
 使用外部图片时，必须在图片下方或文末标明来源。
 
 ```
-本文部分图片来自 Wikipedia
+本文部分图片来自Wikipedia
 ```
